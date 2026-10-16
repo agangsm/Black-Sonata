@@ -1,0 +1,228 @@
+{
+ "cards": [
+  {
+   "id": "A",
+   "frontImage": "assets/stealth/stealth-A-front.png",
+   "backImage": "assets/stealth/stealth-A-back.png",
+   "sourceCrop": "p08-r2c0",
+   "sourcePage": 8
+  },
+  {
+   "id": "B",
+   "frontImage": "assets/stealth/stealth-B-front.png",
+   "backImage": "assets/stealth/stealth-B-back.png",
+   "sourceCrop": "p08-r2c1",
+   "sourcePage": 8
+  },
+  {
+   "id": "C",
+   "frontImage": "assets/stealth/stealth-C-front.png",
+   "backImage": "assets/stealth/stealth-C-back.png",
+   "sourceCrop": "p08-r3c0",
+   "sourcePage": 8
+  },
+  {
+   "id": "D",
+   "frontImage": "assets/stealth/stealth-D-front.png",
+   "backImage": "assets/stealth/stealth-D-back.png",
+   "sourceCrop": "p08-r3c1",
+   "sourcePage": 8
+  },
+  {
+   "id": "E",
+   "frontImage": "assets/stealth/stealth-E-front.png",
+   "backImage": "assets/stealth/stealth-E-back.png",
+   "sourceCrop": "p09-r0c0",
+   "sourcePage": 9
+  },
+  {
+   "id": "F",
+   "frontImage": "assets/stealth/stealth-F-front.png",
+   "backImage": "assets/stealth/stealth-F-back.png",
+   "sourceCrop": "p09-r0c1",
+   "sourcePage": 9
+  },
+  {
+   "id": "G",
+   "frontImage": "assets/stealth/stealth-G-front.png",
+   "backImage": "assets/stealth/stealth-G-back.png",
+   "sourceCrop": "p09-r1c0",
+   "sourcePage": 9
+  },
+  {
+   "id": "H",
+   "frontImage": "assets/stealth/stealth-H-front.png",
+   "backImage": "assets/stealth/stealth-H-back.png",
+   "sourceCrop": "p09-r1c1",
+   "sourcePage": 9
+  },
+  {
+   "id": "I",
+   "frontImage": "assets/stealth/stealth-I-front.png",
+   "backImage": "assets/stealth/stealth-I-back.png",
+   "sourceCrop": "p09-r2c0",
+   "sourcePage": 9
+  },
+  {
+   "id": "J",
+   "frontImage": "assets/stealth/stealth-J-front.png",
+   "backImage": "assets/stealth/stealth-J-back.png",
+   "sourceCrop": "p09-r2c1",
+   "sourcePage": 9
+  },
+  {
+   "id": "K",
+   "frontImage": "assets/stealth/stealth-K-front.png",
+   "backImage": "assets/stealth/stealth-K-back.png",
+   "sourceCrop": "p09-r3c0",
+   "sourcePage": 9
+  },
+  {
+   "id": "L",
+   "frontImage": "assets/stealth/stealth-L-front.png",
+   "backImage": "assets/stealth/stealth-L-back.png",
+   "sourceCrop": "p09-r3c1",
+   "sourcePage": 9
+  },
+  {
+   "id": "M",
+   "frontImage": "assets/stealth/stealth-M-front.png",
+   "backImage": "assets/stealth/stealth-M-back.png",
+   "sourceCrop": "p10-r0c0",
+   "sourcePage": 10
+  },
+  {
+   "id": "N",
+   "frontImage": "assets/stealth/stealth-N-front.png",
+   "backImage": "assets/stealth/stealth-N-back.png",
+   "sourceCrop": "p10-r0c1",
+   "sourcePage": 10
+  },
+  {
+   "id": "O",
+   "frontImage": "assets/stealth/stealth-O-front.png",
+   "backImage": "assets/stealth/stealth-O-back.png",
+   "sourceCrop": "p10-r1c0",
+   "sourcePage": 10
+  },
+  {
+   "id": "P",
+   "frontImage": "assets/stealth/stealth-P-front.png",
+   "backImage": "assets/stealth/stealth-P-back.png",
+   "sourceCrop": "p10-r1c1",
+   "sourcePage": 10
+  },
+  {
+   "id": "Q",
+   "frontImage": "assets/stealth/stealth-Q-front.png",
+   "backImage": "assets/stealth/stealth-Q-back.png",
+   "sourceCrop": "p10-r2c0",
+   "sourcePage": 10
+  },
+  {
+   "id": "R",
+   "frontImage": "assets/stealth/stealth-R-front.png",
+   "backImage": "assets/stealth/stealth-R-back.png",
+   "sourceCrop": "p10-r2c1",
+   "sourcePage": 10
+  },
+  {
+   "id": "S",
+   "frontImage": "assets/stealth/stealth-S-front.png",
+   "backImage": "assets/stealth/stealth-S-back.png",
+   "sourceCrop": "p10-r3c0",
+   "sourcePage": 10
+  },
+  {
+   "id": "T",
+   "frontImage": "assets/stealth/stealth-T-front.png",
+   "backImage": "assets/stealth/stealth-T-back.png",
+   "sourceCrop": "p10-r3c1",
+   "sourcePage": 10
+  },
+  {
+   "id": "U",
+   "frontImage": "assets/stealth/stealth-U-front.png",
+   "backImage": "assets/stealth/stealth-U-back.png",
+   "sourceCrop": "p11-r0c0",
+   "sourcePage": 11
+  },
+  {
+   "id": "V",
+   "frontImage": "assets/stealth/stealth-V-front.png",
+   "backImage": "assets/stealth/stealth-V-back.png",
+   "sourceCrop": "p11-r0c1",
+   "sourcePage": 11
+  },
+  {
+   "id": "W",
+   "frontImage": "assets/stealth/stealth-W-front.png",
+   "backImage": "assets/stealth/stealth-W-back.png",
+   "sourceCrop": "p11-r1c0",
+   "sourcePage": 11
+  },
+  {
+   "id": "X",
+   "frontImage": "assets/stealth/stealth-X-front.png",
+   "backImage": "assets/stealth/stealth-X-back.png",
+   "sourceCrop": "p11-r1c1",
+   "sourcePage": 11
+  },
+  {
+   "id": "Y",
+   "frontImage": "assets/stealth/stealth-Y-front.png",
+   "backImage": "assets/stealth/stealth-Y-back.png",
+   "sourceCrop": "p11-r2c0",
+   "sourcePage": 11
+  },
+  {
+   "id": "Z",
+   "frontImage": "assets/stealth/stealth-Z-front.png",
+   "backImage": "assets/stealth/stealth-Z-back.png",
+   "sourceCrop": "p11-r2c1",
+   "sourcePage": 11
+  },
+  {
+   "id": "--X",
+   "frontImage": "assets/stealth/stealth---X-front.png",
+   "backImage": "assets/stealth/stealth---X-back.png",
+   "sourceCrop": "p12-r1c1",
+   "sourcePage": 12
+  },
+  {
+   "id": "-A",
+   "frontImage": "assets/stealth/stealth--A-front.png",
+   "backImage": "assets/stealth/stealth--A-back.png",
+   "sourceCrop": "p11-r3c0",
+   "sourcePage": 11
+  },
+  {
+   "id": "-K",
+   "frontImage": "assets/stealth/stealth--K-front.png",
+   "backImage": "assets/stealth/stealth--K-back.png",
+   "sourceCrop": "p11-r3c1",
+   "sourcePage": 11
+  },
+  {
+   "id": "-L",
+   "frontImage": "assets/stealth/stealth--L-front.png",
+   "backImage": "assets/stealth/stealth--L-back.png",
+   "sourceCrop": "p12-r0c0",
+   "sourcePage": 12
+  },
+  {
+   "id": "-S",
+   "frontImage": "assets/stealth/stealth--S-front.png",
+   "backImage": "assets/stealth/stealth--S-back.png",
+   "sourceCrop": "p12-r0c1",
+   "sourcePage": 12
+  },
+  {
+   "id": "-U",
+   "frontImage": "assets/stealth/stealth--U-front.png",
+   "backImage": "assets/stealth/stealth--U-back.png",
+   "sourceCrop": "p12-r1c0",
+   "sourcePage": 12
+  }
+ ]
+}

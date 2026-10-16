@@ -1,0 +1,10 @@
+{
+ "frontImage": "assets/countdown/countdown-front.png",
+ "backImage": "assets/countdown/countdown-back.png",
+ "source": {
+  "pnpVersion": "Black_Sonata_PnP_v20181112",
+  "page": 8,
+  "frontCrop": "p08-r1c1",
+  "backCrop": "p08-r1c2"
+ }
+}

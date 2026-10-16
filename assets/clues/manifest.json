@@ -1,0 +1,90 @@
+{
+  "cardW": 535,
+  "cardH": 346,
+  "cards": [
+    {
+      "id": "mary-fitton",
+      "src": "page_003_img1.png",
+      "ocrName": "Mary Fitton",
+      "orientation": "landscape",
+      "out": "assets/clues/card-mary-fitton.png"
+    },
+    {
+      "id": "elizabeth-vernon",
+      "src": "page_003_img2.png",
+      "ocrName": "Elizabeth Vernon",
+      "orientation": "landscape",
+      "out": "assets/clues/card-elizabeth-vernon.png"
+    },
+    {
+      "id": "emilia-lanier",
+      "src": "page_003_img4.png",
+      "ocrName": "Emilia Lanier",
+      "orientation": "landscape",
+      "out": "assets/clues/card-emilia-lanier.png"
+    },
+    {
+      "id": "anne-whateley",
+      "src": "page_003_img5.png",
+      "ocrName": "Anne Whateley",
+      "orientation": "landscape",
+      "out": "assets/clues/card-anne-whateley.png"
+    },
+    {
+      "id": "winifred-burbage",
+      "src": "page_004_img0.png",
+      "ocrName": "Winifred Burbage",
+      "orientation": "landscape",
+      "out": "assets/clues/card-winifred-burbage.png"
+    },
+    {
+      "id": "aline-florio",
+      "src": "page_004_img1.png",
+      "ocrName": "Aline Florio ?",
+      "orientation": "landscape",
+      "out": "assets/clues/card-aline-florio.png"
+    },
+    {
+      "id": "lucy-morgan",
+      "src": "page_004_img4.png",
+      "ocrName": "Lucy Morgan",
+      "orientation": "landscape",
+      "out": "assets/clues/card-lucy-morgan.png"
+    },
+    {
+      "id": "penelope-rich",
+      "src": "page_004_img5.png",
+      "ocrName": "Penelope Rich",
+      "orientation": "landscape",
+      "out": "assets/clues/card-penelope-rich.png"
+    },
+    {
+      "id": "anne-hathaway",
+      "src": "page_005_img0.png",
+      "ocrName": "Anne Hathaway",
+      "orientation": "landscape",
+      "out": "assets/clues/card-anne-hathaway.png"
+    },
+    {
+      "id": "jane-davenant",
+      "src": "page_005_img1.png",
+      "ocrName": "Jane Davenant",
+      "orientation": "landscape",
+      "out": "assets/clues/card-jane-davenant.png"
+    },
+    {
+      "id": "marie-mountjoy",
+      "src": "page_005_img4.png",
+      "ocrName": "Marie Mountjoy",
+      "orientation": "landscape",
+      "out": "assets/clues/card-marie-mountjoy.png"
+    },
+    {
+      "id": "jacqueline-field",
+      "src": "page_005_img5.png",
+      "ocrName": "Jacqueline Field",
+      "orientation": "landscape",
+      "out": "assets/clues/card-jacqueline-field.png"
+    }
+  ]
+}

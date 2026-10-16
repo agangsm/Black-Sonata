@@ -1,0 +1,58 @@
+{
+ "backs": [
+  {
+   "suit": "rose",
+   "image": "assets/ladies/lady-back-rose.png",
+   "src": "page_003_img0.png",
+   "size": [
+    657,
+    484
+   ]
+  },
+  {
+   "suit": "oak",
+   "image": "assets/ladies/lady-back-oak.png",
+   "src": "page_003_img6.png",
+   "size": [
+    657,
+    461
+   ]
+  },
+  {
+   "suit": "acorn",
+   "image": "assets/ladies/lady-back-acorn.png",
+   "src": "page_004_img6.png",
+   "size": [
+    657,
+    460
+   ]
+  },
+  {
+   "suit": "bluebell",
+   "image": "assets/ladies/lady-back-bluebell.png",
+   "src": "page_004_img2.png",
+   "size": [
+    657,
+    484
+   ]
+  },
+  {
+   "suit": "sage",
+   "image": "assets/ladies/lady-back-sage.png",
+   "src": "page_005_img6.png",
+   "size": [
+    657,
+    461
+   ]
+  },
+  {
+   "suit": "thistle",
+   "image": "assets/ladies/lady-back-thistle.png",
+   "src": "page_005_img2.png",
+   "size": [
+    657,
+    484
+   ]
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "cards": [
+  {
+   "id": "fog-01",
+   "frontImage": "assets/fog/fog-01-front.png",
+   "backImage": "assets/fog/fog-01-back.png",
+   "effectType": "revealClue",
+   "actionText": "Reveal a new clue card",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 12,
+    "frontCrop": "p12-r2c0",
+    "backCrop": "p12-r2c2"
+   }
+  },
+  {
+   "id": "fog-02",
+   "frontImage": "assets/fog/fog-02-front.png",
+   "backImage": "assets/fog/fog-02-back.png",
+   "effectType": "moveAnywhere",
+   "actionText": "Move your pawn to any location of your choice",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 12,
+    "frontCrop": "p12-r2c1",
+    "backCrop": "p12-r2c3"
+   }
+  },
+  {
+   "id": "fog-03",
+   "frontImage": "assets/fog/fog-03-front.png",
+   "backImage": "assets/fog/fog-03-back.png",
+   "effectType": "lookAhead",
+   "actionText": "Look ahead at the backs of the next five stealth cards",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 12,
+    "frontCrop": "p12-r3c0",
+    "backCrop": "p12-r3c2"
+   }
+  },
+  {
+   "id": "fog-04",
+   "frontImage": "assets/fog/fog-04-front.png",
+   "backImage": "assets/fog/fog-04-back.png",
+   "effectType": "discardReveal",
+   "actionText": "Discard this card and reveal a new clue card",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 12,
+    "frontCrop": "p12-r3c1",
+    "backCrop": "p12-r3c3"
+   }
+  },
+  {
+   "id": "fog-05",
+   "frontImage": "assets/fog/fog-05-front.png",
+   "backImage": "assets/fog/fog-05-back.png",
+   "effectType": "swapClue",
+   "actionText": "Discard a clue of your choice, then draw another from the clue deck",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 13,
+    "frontCrop": "p13-r0c0",
+    "backCrop": "p13-r0c2"
+   }
+  },
+  {
+   "id": "fog-06",
+   "frontImage": "assets/fog/fog-06-front.png",
+   "backImage": "assets/fog/fog-06-back.png",
+   "effectType": "moveNeighbour",
+   "actionText": "Move your pawn to a neighbouring location",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 13,
+    "frontCrop": "p13-r0c1",
+    "backCrop": "p13-r0c3"
+   }
+  },
+  {
+   "id": "fog-07",
+   "frontImage": "assets/fog/fog-07-front.png",
+   "backImage": "assets/fog/fog-07-back.png",
+   "effectType": "advanceTwo",
+   "actionText": "Advance the stealth deck by two cards",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 13,
+    "frontCrop": "p13-r1c0",
+    "backCrop": "p13-r1c2"
+   }
+  },
+  {
+   "id": "fog-08",
+   "frontImage": "assets/fog/fog-08-front.png",
+   "backImage": "assets/fog/fog-08-back.png",
+   "effectType": "discardSelf",
+   "actionText": "Discard this card",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 13,
+    "frontCrop": "p13-r1c1",
+    "backCrop": "p13-r1c3"
+   }
+  },
+  {
+   "id": "fog-09",
+   "frontImage": "assets/fog/fog-09-front.png",
+   "backImage": "assets/fog/fog-09-back.png",
+   "effectType": "discardFogTop",
+   "actionText": "Discard the top card from the fog deck",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 13,
+    "frontCrop": "p13-r2c0",
+    "backCrop": "p13-r2c2"
+   }
+  },
+  {
+   "id": "fog-10",
+   "frontImage": "assets/fog/fog-10-front.png",
+   "backImage": "assets/fog/fog-10-back.png",
+   "effectType": "shuffleLady",
+   "actionText": "Shuffle the Dark Lady card into the clue deck and draw a new Dark Lady card",
+   "source": {
+    "pnpVersion": "Black_Sonata_PnP_v20181112",
+    "page": 13,
+    "frontCrop": "p13-r2c1",
+    "backCrop": "p13-r2c3"
+   }
+  }
+ ]
+}

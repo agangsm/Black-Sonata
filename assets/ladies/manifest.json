@@ -1,0 +1,126 @@
+{
+ "cardW": 535,
+ "cardH": 346,
+ "cards": [
+  {
+   "id": "mary-fitton",
+   "name": "Mary Fitton",
+   "frontImage": "assets/ladies/lady-mary-fitton-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "elizabeth-vernon",
+   "name": "Elizabeth Vernon",
+   "frontImage": "assets/ladies/lady-elizabeth-vernon-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "emilia-lanier",
+   "name": "Emilia Lanier",
+   "frontImage": "assets/ladies/lady-emilia-lanier-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "anne-whateley",
+   "name": "Anne Whateley",
+   "frontImage": "assets/ladies/lady-anne-whateley-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "winifred-burbage",
+   "name": "Winifred Burbage",
+   "frontImage": "assets/ladies/lady-winifred-burbage-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "aline-florio",
+   "name": "Aline Florio ?",
+   "frontImage": "assets/ladies/lady-aline-florio-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "lucy-morgan",
+   "name": "Lucy Morgan",
+   "frontImage": "assets/ladies/lady-lucy-morgan-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "penelope-rich",
+   "name": "Penelope Rich",
+   "frontImage": "assets/ladies/lady-penelope-rich-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "anne-hathaway",
+   "name": "Anne Hathaway",
+   "frontImage": "assets/ladies/lady-anne-hathaway-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "jane-davenant",
+   "name": "Jane Davenant",
+   "frontImage": "assets/ladies/lady-jane-davenant-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "marie-mountjoy",
+   "name": "Marie Mountjoy",
+   "frontImage": "assets/ladies/lady-marie-mountjoy-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  },
+  {
+   "id": "jacqueline-field",
+   "name": "Jacqueline Field",
+   "frontImage": "assets/ladies/lady-jacqueline-field-front.png",
+   "size": [
+    535,
+    346
+   ],
+   "orientation": "landscape"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "tokens": [
+  {
+   "id": "literary",
+   "image": "assets/characteristics/characteristic-literary.png",
+   "src": "page_006_img4.png",
+   "bbox": [
+    76,
+    53,
+    98,
+    142
+   ]
+  },
+  {
+   "id": "shakespeare",
+   "image": "assets/characteristics/characteristic-shakespeare.png",
+   "src": "page_006_img5.png",
+   "bbox": [
+    65,
+    64,
+    122,
+    119
+   ]
+  },
+  {
+   "id": "children",
+   "image": "assets/characteristics/characteristic-children.png",
+   "src": "page_006_img6.png",
+   "bbox": [
+    61,
+    64,
+    126,
+    119
+   ]
+  },
+  {
+   "id": "court",
+   "image": "assets/characteristics/characteristic-court.png",
+   "src": "page_006_img7.png",
+   "bbox": [
+    56,
+    81,
+    136,
+    88
+   ]
+  },
+  {
+   "id": "married",
+   "image": "assets/characteristics/characteristic-married.png",
+   "src": "page_006_img8.png",
+   "bbox": [
+    67,
+    84,
+    122,
+    81
+   ]
+  },
+  {
+   "id": "musical",
+   "image": "assets/characteristics/characteristic-musical.png",
+   "src": "page_006_img9.png",
+   "bbox": [
+    84,
+    64,
+    82,
+    123
+   ]
+  },
+  {
+   "id": "amorous",
+   "image": "assets/characteristics/characteristic-amorous.png",
+   "src": "page_006_img10.png",
+   "bbox": [
+    63,
+    68,
+    122,
+    111
+   ]
+  }
+ ]
+}
